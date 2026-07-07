@@ -12,8 +12,7 @@ Turn your everyday webcam into a creative AR camera. Apply fun Snapchat-style le
 
 ---
 
-<img width="1071" height="800" alt="cover lensy cam1" src="https://github.com/user-attachments/assets/401491fe-d70c-423b-8d47-ec8d34380ad7" />
-
+<img width="1071" height="800" alt="cover lensy cam_1" src="https://github.com/user-attachments/assets/7c524365-4e84-47da-a292-34c6f0781e24" />
 
 ## ✨ Features
 
